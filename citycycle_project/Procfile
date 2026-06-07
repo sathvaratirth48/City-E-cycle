@@ -1,0 +1,1 @@
+web: gunicorn citycycle_project.wsgi:application
